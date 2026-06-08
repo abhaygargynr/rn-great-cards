@@ -19,7 +19,7 @@ Expected visible result target:
 
 Add your recording link here before submission:
 
-- `TODO: paste Loom / Drive link`
+- [Screen Recording](https://drive.google.com/file/d/1BYk5Yg5lzowgFQVAXJ1ntJLzCBQKeWPM/view?usp=sharing)
 
 ## How To Run
 
